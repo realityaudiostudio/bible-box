@@ -1,0 +1,32 @@
+{
+    "theme_color": "#000000",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/index.html",
+    "name": "The Bible Box",
+    "short_name": "BB",
+    "description": "Daily Bible Verses",
+    "icons": [
+        {
+            "src": "img/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "img/icon-192x192.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "img/icon-192x192.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "img/icon-192x192.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
